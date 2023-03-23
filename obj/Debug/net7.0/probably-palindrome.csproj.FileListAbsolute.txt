@@ -1,0 +1,15 @@
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/bin/Debug/net7.0/probably-palindrome
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/bin/Debug/net7.0/probably-palindrome.deps.json
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/bin/Debug/net7.0/probably-palindrome.runtimeconfig.json
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/bin/Debug/net7.0/probably-palindrome.dll
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/bin/Debug/net7.0/probably-palindrome.pdb
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.csproj.AssemblyReference.cache
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.AssemblyInfoInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.AssemblyInfo.cs
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.csproj.CoreCompileInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.dll
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/refint/probably-palindrome.dll
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.pdb
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/probably-palindrome.genruntimeconfig.cache
+/home/ericluizlucas/Documents/study/dotnet/probably-palindrome/obj/Debug/net7.0/ref/probably-palindrome.dll
