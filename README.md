@@ -19,3 +19,18 @@ Observações adicionais:
 
 2) Considere a string vazia como potencialmente palíndroma.
 
+# Descrição da função solução:
+
+1) Recebe como parâmetro uma string.
+2) Retorna True, caso a palavra seja potencialmente palíndroma. Retorna False, caso contrário.
+
+# Exemplos:
+
+Entrada = "abbac"
+Saída = True
+
+Entrada= "abba"
+Saída = True
+
+Entrada= "abbacd"
+Saída= False
